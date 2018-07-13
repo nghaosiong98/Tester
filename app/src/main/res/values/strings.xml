@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scanner</string>
+    <string name="title_activity_scanner">ScannerActivity</string>
+    <string name="button">Scan</string>
+</resources>
